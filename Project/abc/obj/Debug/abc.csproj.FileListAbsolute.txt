@@ -1,0 +1,10 @@
+E:\CloudMusic\abc\abc\bin\Debug\abc.exe.config
+E:\CloudMusic\abc\abc\bin\Debug\abc.exe
+E:\CloudMusic\abc\abc\bin\Debug\abc.pdb
+E:\CloudMusic\abc\abc\obj\Debug\abc.csprojAssemblyReference.cache
+E:\CloudMusic\abc\abc\obj\Debug\abc.Form1.resources
+E:\CloudMusic\abc\abc\obj\Debug\abc.Properties.Resources.resources
+E:\CloudMusic\abc\abc\obj\Debug\abc.csproj.GenerateResource.cache
+E:\CloudMusic\abc\abc\obj\Debug\abc.csproj.CoreCompileInputs.cache
+E:\CloudMusic\abc\abc\obj\Debug\abc.exe
+E:\CloudMusic\abc\abc\obj\Debug\abc.pdb
